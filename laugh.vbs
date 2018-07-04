@@ -1,0 +1,7 @@
+msgbox("谁让你看的?")
+msgbox("你是不是傻?")
+msgbox("你是真的傻!")
+msgbox("大傻逼!")
+msgbox("傻逼!")
+msgbox("傻!")
+msgbox("bi!")
